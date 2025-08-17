@@ -11,6 +11,6 @@
 - 🧠 I'm learning more about **Software Testing, RTOS, and Wireless Communication**  
 - 💬 Ask me about anything related to **IoT, C/C++, Python, Microcontrollers, wireless solutions**  
 - 🌐 I share my projects and simulations on [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
-- 📫 How to reach me: **ton.email@gmail.com**  
+- 📫 How to reach me: **ghouilaa.anas@gmail.com**  
 
 ---
