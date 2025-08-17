@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 I'm a graduate **Embedded Systems Engineer**  
+- 🎓 I'm an **Embedded Software Engineer** graduated from the National Engineering School of Sousse with a very good mark.
 - ✨ I'm currently working on smart IoT projects using **ESP8266, STM32, and MQTT**  
 - 🛠️ I love building real-time systems, sensor-based applications and smart devices  
 - 🧠 I'm learning more about **Software Testing, RTOS, and Wireless Communication**  
