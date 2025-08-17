@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anas from Tunisia  
 
-💡 Embedded Systems Engineer | IoT | Electrical Engineer | PCB Design  
+💡 Embedded Software Engineer | IoT & Embedded Systems | Reliable Solutions
 
 ---
 
