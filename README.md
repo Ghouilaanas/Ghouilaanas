@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧰 Development tools
+### 🧰 Development & testing tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0A74DA?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
