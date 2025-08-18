@@ -39,7 +39,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### 📡 Communication Protocols
-- **Serial & Bus** : UART / I2C / SPI / CAN / 
+- **Serial & Bus** : UART / I2C / SPI / CAN 
 - **Networking** : HTTP / TCP/IP
 - **Wireless** : LoRa, GSM, WiFi
 
