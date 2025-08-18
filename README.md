@@ -15,3 +15,50 @@
 - 📫 How to reach me: **ghouilaa.anas@gmail.com**  
 
 ---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Programming & Embedded
+- Embedded C / C / C++
+- Python (Tkinter)
+- VHDL
+- MATLAB
+
+### 🔩 Hardware & Tools
+- ESP8266 / STM32 / Raspberry Pi / FPGA
+- Altium Designer / Proteus (ISIS)
+- FreeRTOS
+
+### 📡 Communication Protocols
+- MQTT / Node-RED
+- UART / I2C / SPI / CAN / TCP/IP
+
+### 🧰 Tools & Platforms
+- Git / GitHub
+- Arduino / VS Code / STM32CubeIDE / STM32CubeMX
+- Keil uVision / PyCharm / Spyder / Vivado / Eclipse
+
+---
+
+## 📊 GitHub Stats
+
+![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Trophées GitHub
+
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Anas&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : anas@example.com  
+- 💼 LinkedIn : [linkedin.com/in/anas](https://linkedin.com/in/anas)
+
+---
+
+> *"Créer, c’est transformer l’abstrait en concret."*  
+> *– Anas*
