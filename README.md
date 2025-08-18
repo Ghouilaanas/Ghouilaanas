@@ -45,12 +45,9 @@
   
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
-- 📧 Email : anas@example.com  
-- 💼 LinkedIn : [linkedin.com/in/anas](https://linkedin.com/in/anas)
+- 📧 Email : ghouilaa.anas@gmail.com  
+- 💼 LinkedIn : [linkedin.com/in/ghouila-anas](https://linkedin.com/in/ghouila-anas)
 
 ---
-
-> *"Créer, c’est transformer l’abstrait en concret."*  
-> *– Anas*
