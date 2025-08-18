@@ -10,7 +10,7 @@
 - 📡 Practical expertise in developing wireless, sensor-based, and real-time applications for smart devices.
 - 🔧 Skilled in **C/C++, Python, Microcontrollers (STM32, NodeMCU, Arduino, Raspberry pi) and wireless solutions**.
 - 🧠 Currently expanding knowledge in **Software Testing, RTOS, and Wireless Communication.**   
--🛠️ Motivated to apply my expertise in **aerospace, automotive, and IoT industries** to build innovative and impactful solutions.
+- 🛠️ Motivated to apply my expertise in **aerospace, automotive, and IoT industries** to build innovative and impactful solutions.
 - 🌐 I share my projects on [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
 - 📫 How to reach me: **ghouilaa.anas@gmail.com**  
 
