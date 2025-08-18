@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anas from Tunisia  
 
-💡 Embedded Software Engineer | IoT & Embedded Systems | Reliable Solutions
+💡 Embedded Software Engineer | IoT & Embedded Systems | Innovation & Reliable Solutions
 
 ---
 
