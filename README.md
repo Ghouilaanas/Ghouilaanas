@@ -38,14 +38,10 @@
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-### 🔩 Hardware & Tools
-- ESP8266 / STM32 / Raspberry Pi / FPGA
-- Altium Designer / Proteus (ISIS)
-- FreeRTOS
-
 ### 📡 Communication Protocols
-- MQTT / Node-RED
-- UART / I2C / SPI / CAN / TCP/IP
+- **Serial & Bus** : UART / I2C / SPI / CAN / 
+- **Networking** : HTTP / TCP/IP
+- **Wireless** : LoRa, GSM, WiFi
 
 ### 🧰 Tools & Platforms
 - Git / GitHub
