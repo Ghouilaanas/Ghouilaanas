@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 I'm an **Embedded Software Engineer** graduated from the National Engineering School of Sousse with a very good mark.
+- 🎓 **Embedded Systems Engineer**, graduate of the National Engineering School of Sousse with high honors.
 - 💡 Professional experience in IoT and embedded software development, with a focus on microcontrollers, C/C++, Python, and communication protocols.
 - 🛠️ I love building real-time systems, sensor-based applications and smart devices.
 - 📡 Practical expertise in developing wireless, sensor-based, and real-time applications for smart devices.
