@@ -42,25 +42,7 @@
 - 🔌**Serial & Bus** : UART / I2C / SPI / CAN 
 - 🌐**Networking** : HTTP / TCP/IP
 - 📶**Wireless** : LoRa, GSM, WiFi
-
-### 🧰 Tools & Platforms
-- Git / GitHub
-- Arduino / VS Code / STM32CubeIDE / STM32CubeMX
-- Keil uVision / PyCharm / Spyder / Vivado / Eclipse
-
----
-
-## 📊 GitHub Stats
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Trophées GitHub
-
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Anas&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
 ---
 
 ## 📫 Me contacter
