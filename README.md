@@ -24,9 +24,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔩 Hardware & Tools
-![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+### 🧰 Development tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0A74DA?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ### 🧑‍💻 Programming & Embedded
 - Embedded C / C / C++
 - Python (Tkinter)
