@@ -45,7 +45,7 @@
   
 ---
 
-## 📫 Contact me
+## 📫 Get in Touch
 
 - 📧 Email : ghouilaa.anas@gmail.com  
 - 💼 LinkedIn : [linkedin.com/in/ghouila-anas](https://linkedin.com/in/ghouila-anas)
