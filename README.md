@@ -11,7 +11,7 @@
 - 🔧 Skilled in **C/C++, Python, Microcontrollers (STM32, NodeMCU, Arduino, Raspberry pi) and wireless solutions**.
 - 🧠 Currently expanding knowledge in **Software Testing, RTOS, and Wireless Communication.**   
 - 🛠️ Motivated to apply my expertise in **aerospace, automotive, and IoT industries** to build innovative and impactful solutions.
-- 🌐 I share my projects on [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
+- 🌐 I share my projects on [LinkedIn](https://www.linkedin.com/in/ghouila-anas/)  
 - 📫 How to reach me: **ghouilaa.anas@gmail.com**  
 
 ---
@@ -48,7 +48,7 @@
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-ghouilaa.anas%40gmail.com-informational)](mailto:ghouilaa.anas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--username-blue)](https://linkedin.com/in/your-username)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--username-blue)](https://linkedin.com/in/ghouila-anas)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-black)](https://github.com/Ghouilaanas)
 
 ---
