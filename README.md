@@ -48,7 +48,7 @@
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-ghouilaa.anas%40gmail.com-informational)](mailto:ghouilaa.anas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--username-blue)](https://linkedin.com/in/ghouila-anas)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black)](https://github.com/Ghouilaanas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghouila-anas)](https://linkedin.com/in/ghouila-anas)
+[![GitHub](https://img.shields.io/badge/GitHub-Ghouilaanas)](https://github.com/Ghouilaanas)
 
 ---
