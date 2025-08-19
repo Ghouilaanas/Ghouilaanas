@@ -53,7 +53,7 @@
 
 ---
 ## 🚀 Projects Highlights 
-- 💡 **Light Management System** – Device + Gateway + HTTP
+- 💡 **Light Management System** – Device (µC STM32) + Gateway (µC ESP) + HTTP
 - 🛣️ **Traffic flow detection system** – µC + sensors
 - 🛰️ **Vehicle Tracking system** – GPS + µC + GSM
 - 📟⚡ **Smart Energy Meter** – GSM + µC + sensors
