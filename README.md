@@ -53,8 +53,8 @@
 
 ---
 ## 🚀 Projects Highlights 
-- 💡 **Light Management System** – ESP8266 + Relays + MQTT
-- 🛣️ **Traffic flow detection system**
-- 🛰️ **Vehicle Tracking system**
+- 💡 **Light Management System** – Device + Gateway + HTTP
+- 🛣️ **Traffic flow detection system** -Device + sensors
+- 🛰️ **Vehicle Tracking system** - GPS + Device + GSM
 - 📟⚡ **Smart Energy Meter**
   
