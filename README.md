@@ -53,3 +53,4 @@
 
 ---
 ## 🚀 Projects Highlights 
+- 💡 Light Management System – ESP8266 + Relays + MQTT
