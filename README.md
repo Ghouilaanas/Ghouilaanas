@@ -47,7 +47,8 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email : ghouilaa.anas@gmail.com  
-- 💼 LinkedIn : [linkedin.com/in/ghouila-anas](https://linkedin.com/in/ghouila-anas)
+[![Email](https://img.shields.io/badge/Email-ghouilaa.anas%40gmail.com-informational)](mailto:ghouilaa.anas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--username-blue)](https://linkedin.com/in/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-black)](https://github.com/your-username)
 
 ---
