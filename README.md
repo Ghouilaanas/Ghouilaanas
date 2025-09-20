@@ -57,5 +57,5 @@
 - 🛣️ **Traffic flow detection system** – µC + sensors
 - 🛰️ **Vehicle Tracking system** – GPS + µC + GSM
 - 📟⚡ **Smart Energy Meter** – GSM + µC + sensors
-- 🌦️🌡️ **Weather Station** - GSM + µC + sensors
+- 🌦️🌡️ **Weather Station** – GSM + µC + sensors
   
