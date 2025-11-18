@@ -55,7 +55,6 @@
 ## 🚀 Projects Highlights 
 - 💡 **Light Management System** – Device (µC STM32) + Gateway (µC ESP) + HTTP
 - 🛣️ **Traffic flow detection system** – µC + sensors
-- 🛰️ **Vehicle Tracking system** – GPS + µC + GSM
 - 📟⚡ **Smart Energy Meter** – GSM + µC + sensors
 - 🌦️🌡️ **Weather Station** – GSM + µC + sensors
 - 💡 **LDR-Based Automatic Darkness Detection Circuit (Simple DIY)** – µC STM32 + sensor
