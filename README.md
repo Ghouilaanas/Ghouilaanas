@@ -58,4 +58,5 @@
 - 🛰️ **Vehicle Tracking system** – GPS + µC + GSM
 - 📟⚡ **Smart Energy Meter** – GSM + µC + sensors
 - 🌦️🌡️ **Weather Station** – GSM + µC + sensors
+- 💡 **LDR-Based Automatic Darkness Detection Circuit (Simple DIY)** – µC STM32 + sensor
   
