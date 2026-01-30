@@ -40,7 +40,7 @@
 ### 📡 Communication Protocols
 - 🔌 **Serial & Bus** : UART / I2C / SPI / CAN 
 - 🌐 **Networking** : HTTP/HTTPS, TCP/IP, MQTT, Rest API
-- 📶 **Wireless** : LoRa, GSM, WiFi
+- 📶 **Wireless** : LoRa, LoRaWAN, GSM, WiFi
   
 ---
 
