@@ -29,6 +29,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-0A74DA?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP-IDF-%23EE4C2C?style=for-the-badge&logo=data:image/svg+xml;base64,<ENCODED_SVG_LOGO>&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🔩 Microcontrollers boards
