@@ -57,5 +57,5 @@
 - 🛣️ **Traffic flow detection system** – µC + sensors
 - 📟⚡ **Smart Energy Meter** – GSM + µC + sensors
 - 🌦️🌡️ **Weather Station** – GSM + µC + sensors
-- 💡 **LDR-Based Automatic Darkness Detection Circuit (Simple DIY)** – µC STM32 + sensor
+- 💡 **LDR-Based Automatic Darkness Detection Circuit** – µC STM32 + sensor
   
